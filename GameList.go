@@ -13,6 +13,7 @@ var rate_game = map[string]float64{}
 var d_rate_game = map[string]string{}
 
 func main(){
+	// Risky Kurniawan - ARS University
 	goMenu:
 	var pilihan, sub string
 	fmt.Println("==========================================")
